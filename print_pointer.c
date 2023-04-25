@@ -28,7 +28,6 @@ int print_pointer(va_list list)
 
 	return (size);
 }
-
 /**
  * _strcmp - Compare two strings
  * @s1: String 1
@@ -47,4 +46,3 @@ int _strcmp(char *s1, char *s2)
 
 	return (0);
 }
-

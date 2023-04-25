@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * print_binary - Print a number in base 2
  * @list: Number to print in base 2

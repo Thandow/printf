@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * handler - Format controller
  * @str: String format
